@@ -1,0 +1,16 @@
+h1 {
+  text-align:center;
+}
+body {
+  text-align:center;
+  font-size:22px;
+  font-family:Calibri;
+ 
+}
+hr {
+    clear: both;
+    visibility: hidden;
+}
+li {
+  display: inline;
+}
